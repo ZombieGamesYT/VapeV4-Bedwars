@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZombieGamesYT/VapeV4-Bedwars/main/VAPEV4", true))()
